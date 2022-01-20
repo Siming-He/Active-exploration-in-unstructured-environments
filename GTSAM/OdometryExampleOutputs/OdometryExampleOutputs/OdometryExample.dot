@@ -1,0 +1,12 @@
+graph {
+  size="5,5";
+
+  var1[label="1"];
+  var2[label="2"];
+  var3[label="3"];
+
+  factor0[label="", shape=point];
+  var1--factor0;
+  var1--var2;
+  var2--var3;
+}
