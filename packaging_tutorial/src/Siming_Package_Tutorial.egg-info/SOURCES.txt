@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/Siming_Package_Tutorial.egg-info/PKG-INFO
+src/Siming_Package_Tutorial.egg-info/SOURCES.txt
+src/Siming_Package_Tutorial.egg-info/dependency_links.txt
+src/Siming_Package_Tutorial.egg-info/top_level.txt
+src/example_package/__init__.py
+src/example_package/example.py
