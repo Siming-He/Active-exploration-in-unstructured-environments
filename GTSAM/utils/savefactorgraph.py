@@ -3,7 +3,7 @@ import os
 
 def save_factor_graph(graph, name):
     """
-    Save factor graph as got and png files
+    Save factor graph as dot and png files
 
     Args:
         graph (NonlinearFactorGraph)
